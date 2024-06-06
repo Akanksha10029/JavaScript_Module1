@@ -74,5 +74,7 @@ mintNFT("The White Tiger", "Aravind Adiga", 2008, "Fiction");
 listNFTs();
 console.log(`Total NFTs minted: ${getTotalSupply()}`);
 ```
+## View Output
+![output_image](JS_Project_output.jpg)
 
 This project demonstrates how to manage a collection of NFTs, ensuring each one is unique and easily viewable. The code provides a basic framework for creating and displaying NFTs in a simple and organized manner.
